@@ -18,8 +18,7 @@ It is my pleasure to share with you a screenshot of my solution to the loop-stud
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://loop-studios-tau-seven.vercel.app/)
 
 ### Built with
 
