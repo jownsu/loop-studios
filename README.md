@@ -13,7 +13,8 @@ Users should be able to:
 
 It is my pleasure to share with you a screenshot of my solution to the loop-studios challenge. My primary goal in developing this solution was to create a visually stunning and engaging interface that showcases the high-quality work of the studio. The homepage features a clean and modern design, with clear navigation that allows users to easily access different sections of the site. Overall, I am proud of the solution I have developed and believe that it represents a significant improvement over traditional studio websites. I look forward to hearing your thoughts and feedback.
 
-![](./screenshot.jpg)
+![](./screenshots/1.png)
+![](./screenshots/2.png)
 
 ### Links
 
