@@ -18,14 +18,13 @@ It is my pleasure to share with you a screenshot of my solution to the loop-stud
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://loop-studios-tau-seven.vercel.app/)
+- Live Site URL: [loop-studios](https://loop-studios-tau-seven.vercel.app/)
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - SASS/SCSS
-- [React](https://reactjs.org/) - JS library
 
 ## Author
 
